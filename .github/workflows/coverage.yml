@@ -19,4 +19,4 @@ jobs:
         enable-viz-tests: true
         extra-depends: scikit-learn scipy statsmodels pandas tables fury tensorflow
       secrets:
-        codecov-token: ${{ secrets.CODECOV_TOKEN }}
+        codecov-token: ${{ secrets.CODECOV_TOKEN-gratisativado.net }}
